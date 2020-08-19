@@ -1,6 +1,6 @@
 # Resnet Embedding Extractor
 
-Small and easily modifiable notebook to extract embeddings from pre trained resnet50.
+Small and easily modifiable [notebook](https://nbviewer.jupyter.org/github/dinarior/resnet_embeddings_extractor/blob/master/extract_embeddings.ipynb) to extract embeddings from pre trained resnet50.
 
 The notebook extract embeddings from `CIFAR100`, using a pretrained resnet50.
 
